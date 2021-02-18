@@ -1,4 +1,6 @@
 p {
     color: black;
     background-color: red;
+    border: darkred 1px solid;
+    padding: 20px;
 }
